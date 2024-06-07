@@ -11,6 +11,7 @@ In order to make this project functionnal you need to have DNS entries given to 
 
 #  4 Documentation
 When you open the compressed file you need to unzip it and open the folder, the folder contains 3 main folder as such:
+
 <img width="61" alt="image" src="https://github.com/C-Brq/WEBHOSTING/assets/156824818/fbe38350-d3df-4b2d-a581-a4c936b41339">
 
 In the first Folder "Docs" You will find Documentation about the project (the only language included as of right now is french)
