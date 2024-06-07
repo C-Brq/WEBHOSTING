@@ -15,5 +15,7 @@ When you open the compressed file you need to unzip it and open the folder, the 
 <img width="61" alt="image" src="https://github.com/C-Brq/WEBHOSTING/assets/156824818/fbe38350-d3df-4b2d-a581-a4c936b41339">
 
 In the first Folder "Docs" You will find Documentation about the project (the only language included as of right now is french)
-In the second Folder "Lib" You will find links to the libraries that are used in this project inside a readme.txt file
+
+In the second Folder "Lib" You will find links to the libraries that are used in this project inside a readme.txt file.
+
 In the third Folder "Src" You will find all the source code related to the project inside .txt files, please read the description above the code before doing anything.
