@@ -1,6 +1,6 @@
 #  1 About This project
 This project has for objective to provide a local WEB Hosting service,
-to make it functionnal on a network Please go Read #3,
+to make it functionnal on a network [Please go Read #3](#3-how-to-make-this-project-functionnal),
 This project is not a guide just a quick explenation of the infrastructure and the work done to acomplish this project.
 
 You may use all the files given into this project.
