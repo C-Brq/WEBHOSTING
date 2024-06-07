@@ -30,6 +30,8 @@ When you open the compressed file you need to unzip it and open the folder, the 
 
 In the first Folder "Docs" You will find Documentation about the project (the only language included as of right now is french)
 
-In the second Folder "Lib" You will find links to the libraries that are used in this project inside a readme.txt file.
+In the second Folder "Lib" You will find links to the libraries that are used in this project inside a readme.txt file: <img width="58" alt="image" src="https://github.com/C-Brq/WEBHOSTING/assets/156824818/db00371b-8439-4aa1-8674-f5c45e90afc6">.
 
-In the third Folder "Src" You will find all the source code related to the project inside .txt files, please read the description above the code before doing anything.
+In the third Folder "Src" You will find all the source code related to the project inside .txt files: <img width="151" alt="image" src="https://github.com/C-Brq/WEBHOSTING/assets/156824818/d858be52-0c6e-4996-b268-4f969d247d2e">.
+
+Please read the description above the code before doing anything.
