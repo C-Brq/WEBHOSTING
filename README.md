@@ -5,6 +5,8 @@ This project has for objective to provide a local WEB Hosting service,
 to make it functionnal on a network [Please go Read #3](#3-how-to-make-this-project-functionnal),
 This project is not a guide just a quick explenation of the infrastructure and the work done to acomplish this project.
 
+This Project Uses mainly [NGINX](https://nginx.org/en/), [MariaDB](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/1280px-Nginx_logo.svg.png) and [VSFTPD](https://wiki.debian.org/fr/vsftpd)
+
 You may use all the files given into this project.
 
 This project is strictly Educationnal and is not in production.
