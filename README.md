@@ -1,3 +1,5 @@
+![Nginx_logo svg](https://github.com/C-Brq/WEBHOSTING/assets/156824818/25a8b9db-3bee-4526-9754-04767db7fe1c)
+
 #  1 About This project
 This project has for objective to provide a local WEB Hosting service,
 to make it functionnal on a network [Please go Read #3](#3-how-to-make-this-project-functionnal),
